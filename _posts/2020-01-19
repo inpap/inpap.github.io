@@ -1,0 +1,8 @@
+# Post Number One
+
+
+## Testing Latex
+
+$\sum_n(x,y)$
+
+{% include info.html text="This is a box with information" %}
